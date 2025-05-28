@@ -23,9 +23,9 @@ indir:
 ## Value can be also path to your own genome config file!
 genome:
 ## FASTQ file extension (default: ".fastq.gz")
-ext: '.fastq.gz'
+ext: '.fastq'
 ## paired-end read name extension (default: ['_R1', "_R2"])
-reads: [_R1, _R2]
+reads: [_1_sequence, _2_sequence]
 ## mapping mode
 mode: mapping
 aligner: Bowtie2

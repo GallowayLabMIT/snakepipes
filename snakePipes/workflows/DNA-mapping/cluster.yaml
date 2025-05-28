@@ -3,7 +3,7 @@ bamCoverage:
 bamCoverage_filtered:
     memory: 4G
 bamPE_fragment_size:
-    memory: 10G
+    memory: 5G
 bowtie2:
     memory: 4G
 bwa:
